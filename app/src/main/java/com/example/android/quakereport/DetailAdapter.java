@@ -22,7 +22,6 @@ public class DetailAdapter extends ArrayAdapter<EarthQuake> {
         super(context, 0, earthQuakes);
     }
 
-
     @Override
     public View getView(int position, @Nullable View convertView, @NonNull ViewGroup parent) {
 
