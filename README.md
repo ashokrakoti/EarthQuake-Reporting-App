@@ -8,28 +8,15 @@ Used in a Udacity course in the Beginning Android Nanodegree.
 
 More info on the USGS Earthquake API available at:
 https://earthquake.usgs.gov/fdsnws/event/1/
+ 
+## App screenshots are:
+![Screenshot_20210122-104633](https://user-images.githubusercontent.com/32910948/105455005-dbfd3e00-5ca8-11eb-9570-e7d438995bbf.png)
+![Screenshot_20210122-104648](https://user-images.githubusercontent.com/32910948/105455009-ddc70180-5ca8-11eb-9f29-80322dce8e78.png)
+![Screenshot_20210122-104656](https://user-images.githubusercontent.com/32910948/105455010-ddc70180-5ca8-11eb-9b0d-78480e8ba4ce.png)
+![Screenshot_20210122-104709](https://user-images.githubusercontent.com/32910948/105455013-de5f9800-5ca8-11eb-8d1e-d80c61a58a52.png)
+![Screenshot_20210122-104714](https://user-images.githubusercontent.com/32910948/105455015-def82e80-5ca8-11eb-8417-c1faac70e95f.png)
+![Screenshot_20210122-104719](https://user-images.githubusercontent.com/32910948/105455016-def82e80-5ca8-11eb-9547-06e980270df7.png)
 
-Pre-requisites
---------------
-
-- Android SDK v29
-- Android Build Tools v29.0.3
-- Android Support Repository v29.0.3
-
-Getting Started
----------------
-
-This sample uses the Gradle build system. To build this project, use the
-"gradlew build" command or use "Import Project" in Android Studio.
-
-Support
--------
-
-- Google+ Community: https://plus.google.com/communities/105153134372062985968
-- Stack Overflow: http://stackoverflow.com/questions/tagged/android
-
-Patches are encouraged, and may be submitted by forking this project and
-submitting a pull request through GitHub. Please see CONTRIBUTING.md for more details.
 
 License
 -------
